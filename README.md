@@ -1,2 +1,2 @@
 # processing
-Processing visualization for Exoviz projecth
+Processing visualization for the Exoviz project
